@@ -1,6 +1,7 @@
 {
   "name": "cars",
-  "version": "0.0.0",
+  "Author":"Anoop G"
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
